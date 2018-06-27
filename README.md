@@ -1,20 +1,23 @@
+# Project 2: Twitter Emerging Topic Detection using Apache Spark
+
 COEN 242 - Big Data 
+
 Santa Clara University 
+
 Spring 2018
 
-Project 2: Twitter Emerging Topic Detection using Apache Spark
 
+### Authors 
 
-Authors: 
+Immanuel Amirtharaj
 
-	Immanuel Amirtharaj
-	Jackson Beadle
+Jackson Beadle
 
 
 Last Edited: June 13, 2018
 
 
-Project Description: 
+### Project Description
 
 Spark Streaming project to parse Twitter streams, run semantic analysis using 
 Stanford's Core NLP library, and detect emerging topics. 
